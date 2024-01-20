@@ -61,7 +61,7 @@ ConfigCamping.wildesprobspawndings = {
         }, 
         areaausnahme = true,
     },
-    grill = {
+    grill = {    --do not delete. the ConfigCamping.grillfleisch is attached to this
         probs={
             {name = "prop_bbq_5", xOffset =-0.8, yOffset = 0.5, zOffset = -1.0, heading = 0.0, freezed = true, noOffset = true},        
         }, 
