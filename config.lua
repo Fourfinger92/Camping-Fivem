@@ -48,14 +48,14 @@ ConfigCamping.wildesprobspawndings = {
         }, 
         areaausnahme = false,
     },
-    chair1 = {
+    chair1 = { --these chairs are like the grill only placable one at a time and can be put back in you inventory
         probs={
             {name = "prop_skid_chair_01", xOffset =-0.8, yOffset = 0.5, zOffset = -0.6, heading = 0.0, freezed = true, noOffset = true},        
         }, 
         areaausnahme = true,
     },
 
-    chair2 = {
+    chair2 = { --these chairs are like the grill only placable one at a time and can be put back in you inventory
         probs={
             {name = "prop_skid_chair_02", xOffset =-0.8, yOffset = 0.5, zOffset = -0.6, heading = 0.0, freezed = true, noOffset = true},        
         }, 
