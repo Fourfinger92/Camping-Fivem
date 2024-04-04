@@ -1,4 +1,4 @@
-
+ESX = exports["es_extended"]:getSharedObject()
 CreateThread(function()
     for i,k in pairs(ConfigCamping.wildesprobspawndings) do
         ESX.RegisterUsableItem(i, function(source)
